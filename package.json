@@ -1,0 +1,27 @@
+{
+  "name": "blog-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaRay/blog-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaRay/blog-page/issues"
+  },
+  "homepage": "https://github.com/ShaRay/blog-page#readme",
+  "dependencies": {
+    "tachyons": "^4.7.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-serve": "^1.4.0"
+  }
+}
